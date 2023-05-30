@@ -1,0 +1,9 @@
+References:
+
+1) Used the SFML library for graphics and input purposes
+   https://www.sfml-dev.org/download/sfml/2.5.1/
+
+2) Used the ThreadPool header file for implementation in c++ purposes
+   https://github.com/progschj/ThreadPool/blob/master/ThreadPool.h
+
+3) Used Paul robertson's sfml framework provided to us in the CMP105 lectures for sfml

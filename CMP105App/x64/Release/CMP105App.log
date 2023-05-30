@@ -1,0 +1,44 @@
+﻿  main.cpp
+C:\CMP_202_1904516\CMP105App\main.cpp(58,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CMP_202_1904516\CMP105App\main.cpp(58,17): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\CMP_202_1904516\CMP105App\main.cpp(89,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\CMP_202_1904516\CMP105App\main.cpp(127,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CMP_202_1904516\CMP105App\main.cpp(127,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CMP_202_1904516\CMP105App\main.cpp(128,36): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\CMP_202_1904516\CMP105App\main.cpp(133,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CMP_202_1904516\CMP105App\main.cpp(133,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CMP_202_1904516\CMP105App\main.cpp(134,33): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\CMP_202_1904516\CMP105App\main.cpp(139,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CMP_202_1904516\CMP105App\main.cpp(139,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CMP_202_1904516\CMP105App\main.cpp(140,39): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\CMP_202_1904516\CMP105App\main.cpp(158,21): warning C4244: 'argument': conversion from 'double' to 'size_t', possible loss of data
+  Generating code
+  519 of 526 functions (98.7%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CMP105App.vcxproj -> C:\CMP_202_1904516\x64\Release\CMP202.exe

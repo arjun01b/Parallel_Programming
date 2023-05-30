@@ -1,0 +1,2 @@
+Left click of mouse to zoom in
+Right click of mouse to zoom out
